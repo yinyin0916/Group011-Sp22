@@ -1,10 +1,1 @@
-# COGS118A Project template
-This is your group repo for your final project for COGS118A
-
-This repository is publicly visible! We will be using that feature to do peer review of projects.
-
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook).
-
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+Nowadays, heart disease can be regarded as one of the most fatal diseases in the world. And nearly 647,000 Americans die from heart disease every year. Thus, developing an ML model to detect and predict heart disease may help the patients get effective treatment at the early stage, significantly reducing the probability of causing death. To build the model, we decide to use a dataset that measures the possible indicators that cause heart disease like high blood pressure, alcohol, or smoking. By evaluating these indicators, we may be able to predict whether an individual has heart disease. CDC collects the data in the dataset through telephone surveys, including the health status of US adults in over 50 states. And before building the ML model, we will firstly preprocess the data, converting them into appropriate data types and abandoning some features if needed. After the model is created, we will use some metrics or criteria to evaluate its accuracy, determining whether it is a successful model.
