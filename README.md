@@ -1,4 +1,4 @@
-# Heart Disease Prediction from Health Indicators
+# Predicting Heart Disease from Health Information
 
 This project predicts whether a patient has heart disease based on 300,000 patients’ health data of BMI, sleep, and addiction using 4 machine learning models:
 1. Logistic regression
